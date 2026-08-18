@@ -32,7 +32,7 @@ The main objectives of this project are:
 The dataset contains restaurant information including:
 
 - Restaurant ID
-- Restaurant Name
+- Name
 - City
 - Rating
 - Rating Count
